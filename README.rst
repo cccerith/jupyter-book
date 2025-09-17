@@ -1,4 +1,4 @@
-Example: Jupyter Book for Read the Docs
+Jupyter Book for Read the Docs
 =======================================
 
 .. image:: https://readthedocs.org/projects/example-jupyter-book/badge/?version=latest
@@ -29,7 +29,7 @@ This example shows a Jupyter Book project with Read the Docs. You're encouraged 
     If you have questions related to this example, feel free to can ask them as a GitHub issue `here <https://github.com/readthedocs-examples/example-jupyter-book/issues>`_.
 
 
-Example Project usage
+Project usage
 ---------------------
 
 This project has a standard Jupyter Book layout which is built by Read the Docs almost the same way that you would build it locally (on your own laptop!).
