@@ -2,7 +2,7 @@ Jupyter Book for Read the Docs
 =======================================
 
 .. image:: https://readthedocs.org/projects/example-jupyter-book/badge/?version=latest
-    :target: https://example-jupyter-book.readthedocs.io/
+    :target: https://dev.cccerithparish.org/jupyter-book.readthedocs.io/
     :alt: Documentation Status
 
 .. This README.rst should work on GitHub and is also included in the Sphinx documentation project in docs/ - therefore, README.rst uses absolute links for most things so it renders properly on GitHub
